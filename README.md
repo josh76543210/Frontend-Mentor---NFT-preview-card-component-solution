@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Coming soon]()
-- Live Site URL: [Coming soon]()
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-j-lkMLn7nl](https://www.frontendmentor.io/solutions/nft-preview-card-component-j-lkMLn7nl)
+- Live Site URL: [https://josh76543210-fm-nft-component.netlify.app/](https://josh76543210-fm-nft-component.netlify.app/)
 
 ## My process
 
